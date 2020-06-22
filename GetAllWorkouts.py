@@ -8,9 +8,11 @@ import common
 global class_type_dict
 class_type_dict = {}
 
+global filehandle_dict
+filehandle_dict = {}
 
 
-def GenWorkoutData(data):
+def WriteWorkoutData(data):
     wlist = []
     for workout in data:
         class_type_id = workout['class_type_ids'][0]
@@ -23,10 +25,11 @@ def GenWorkoutData(data):
         except KeyError:
             instructor = 'None'
         length_in_minutes = workout['pedaling_duration'] / 60
-        wstr = '%s,%s,%s,%s,%s\n' % (
+        wstr = '%s,%s,%s,%s\n' % (
             original_air_time, class_type,
-            fitness_discipline, instructor, length_in_minutes)
-        wlist.append(wstr)
+            instructor, length_in_minutes)
+        filehandle_dict[fitness_discipline].write(wstr)
+        # wlist.append(wstr)
     return wlist
 
 
@@ -38,20 +41,24 @@ if __name__ == '__main__':
     resp = conn.GetUrl(fetch_url)
     page_count = resp['page_count']
 
+    header_string = 'Original Air Date,Type,Instructor,Length'
+    for i in resp['fitness_disciplines']:
+        i = i['id']
+        filename = 'workouts/%s.csv' % i
+        filehandle_dict[i] = open(filename, 'w')
+        filehandle_dict[i].write(header_string)
+
     # class id dictionary
     for i in resp['class_types']:
         class_type_dict[i['id']] = i['name']
 
-    lines = GenWorkoutData(resp['data'])
-    f = open('AllWorkouts.csv', 'w')
-    for i in lines:
-        f.write(i)
+    lines = WriteWorkoutData(resp['data'])
 
     for p in range(1, page_count):
         fetch_url = url % p
         resp = conn.GetUrl(fetch_url)
-        lines = GenWorkoutData(resp['data'])
-        for i in lines:
-            f.write(i)
-    f.close()
+        lines = WriteWorkoutData(resp['data'])
+
+    for i in filehandle_dict:
+        filehandle_dict[i].close()
     print('Finished Fetching Workouts')
