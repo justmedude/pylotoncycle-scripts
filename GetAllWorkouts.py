@@ -41,7 +41,7 @@ if __name__ == '__main__':
     resp = conn.GetUrl(fetch_url)
     page_count = resp['page_count']
 
-    header_string = 'Original Air Date,Type,Instructor,Length'
+    header_string = 'Original Air Date,Type,Instructor,Length\n'
     for i in resp['fitness_disciplines']:
         i = i['id']
         filename = 'workouts/%s.csv' % i
