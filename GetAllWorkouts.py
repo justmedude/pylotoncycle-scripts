@@ -18,6 +18,7 @@ def WriteWorkoutData(data):
         class_type_id = workout['class_type_ids'][0]
         class_type = class_type_dict[class_type_id]
         fitness_discipline = workout['fitness_discipline']
+        title = workout['title']
         original_air_time = time.ctime(workout['original_air_time'])
         instructor_id = workout['instructor_id']
         try:
@@ -25,11 +26,10 @@ def WriteWorkoutData(data):
         except KeyError:
             instructor = 'None'
         length_in_minutes = workout['pedaling_duration'] / 60
-        wstr = '%s,%s,%s,%s\n' % (
-            original_air_time, class_type,
-            instructor, length_in_minutes)
+        wstr = '%s,%s,%s,%s,%s\n' % (
+            original_air_time, title,
+            instructor, length_in_minutes, class_type)
         filehandle_dict[fitness_discipline].write(wstr)
-        # wlist.append(wstr)
     return wlist
 
 
@@ -41,7 +41,9 @@ if __name__ == '__main__':
     resp = conn.GetUrl(fetch_url)
     page_count = resp['page_count']
 
-    header_string = 'Original Air Date,Type,Instructor,Length\n'
+    # Generate a dictionary of file handles. One file per fitness_discipline
+    # All init the files with the headers that will get written
+    header_string = 'Original Air Date,Title,Instructor,Length,Type\n'
     for i in resp['fitness_disciplines']:
         i = i['id']
         filename = 'workouts/%s.csv' % i
