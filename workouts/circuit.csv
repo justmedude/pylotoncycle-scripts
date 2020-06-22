@@ -1,515 +1,515 @@
-Original Air Date,Type,Instructor,Length
-Sat Jun 20 11:48:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Wed Jun 17 06:24:00 2020,Body Focus (Bootcamp),Olivia Amato,30.0
-Mon Jun 15 14:48:00 2020,Bodyweight (Bootcamp),Rebecca Kennedy,30.0
-Sat Jun 13 11:51:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Fri Jun 12 07:00:00 2020,Body Focus (Bootcamp),Chase Tucker,30.0
-Wed Jun 10 07:00:00 2020,Body Focus (Bootcamp),Chase Tucker,30.0
-Tue Jun  9 14:49:00 2020,Theme (Bootcamp),Adrian Williams,45.0
-Sat Jun  6 11:50:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Sat Jun  6 07:00:00 2020,Theme (Bootcamp),Matty Maggiacomo,45.0
-Mon Jun  1 11:50:00 2020,Bodyweight (Bootcamp),Andy Speer,45.0
-Mon Jun  1 07:00:00 2020,Bodyweight (Bootcamp),Jess Sims,60.0
-Sun May 31 14:48:00 2020,Bodyweight (Bootcamp),Selena Samuela,45.0
-Sat May 30 07:00:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Thu May 28 06:00:00 2020,Theme (Bootcamp),Adrian Williams,30.0
-Wed May 27 09:00:00 2020,Body Focus (Bootcamp),Jess Sims,45.0
-Wed May 27 09:00:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Tue May 26 11:50:00 2020,Theme (Bootcamp),Rebecca Kennedy,30.0
-Wed Apr  8 06:30:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Sat Mar 28 07:21:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Fri Mar 27 07:55:00 2020,Body Focus (Bootcamp),Chase Tucker,30.0
-Mon Mar 23 07:19:00 2020,Bodyweight (Bootcamp),Selena Samuela,45.0
-Sat Mar 21 07:19:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Fri Mar 20 10:17:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Fri Mar 20 07:19:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Mar 14 07:48:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Thu Mar 12 15:19:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Mar 12 14:18:00 2020,Body Focus (Bootcamp),Olivia Amato,45.0
-Wed Mar 11 14:16:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Tue Mar 10 14:20:00 2020,Theme (Bootcamp),Rebecca Kennedy,30.0
-Tue Mar 10 03:48:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Mon Mar  9 16:19:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Mar  9 05:00:00 2020,Theme (Bootcamp),Jess Sims,45.0
-Sat Mar  7 07:47:00 2020,Body Focus (Bootcamp),Jess Sims,60.0
-Thu Mar  5 15:17:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Mar  5 04:47:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Wed Mar  4 14:13:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Mar  3 03:48:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Tue Mar  3 02:49:00 2020,Bodyweight (Bootcamp),Andy Speer,45.0
-Mon Mar  2 15:17:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Mon Mar  2 04:49:00 2020,Theme (Bootcamp),Jess Sims,45.0
-Sun Mar  1 06:19:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Sun Mar  1 05:20:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Sat Feb 29 07:46:00 2020,Theme (Bootcamp),Multiple Instructors,60.0
-Sat Feb 29 05:18:00 2020,Body Focus (Bootcamp),Selena Samuela,45.0
-Fri Feb 28 08:49:00 2020,Theme (Bootcamp),Jess Sims,30.0
-Fri Feb 28 04:47:00 2020,Theme (Bootcamp),Matty Maggiacomo,30.0
-Wed Feb 26 14:15:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Tue Feb 25 15:21:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Tue Feb 25 14:18:00 2020,Theme (Bootcamp),Rebecca Kennedy,45.0
-Mon Feb 24 16:19:00 2020,Theme (Bootcamp),Matty Maggiacomo,30.0
-Mon Feb 24 15:18:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Mon Feb 24 04:49:00 2020,Body Focus (Bootcamp),Jess Sims,45.0
-Sun Feb 23 06:18:00 2020,Body Focus (Bootcamp),Selena Samuela,30.0
-Sat Feb 22 07:49:00 2020,Theme (Bootcamp),Matty Maggiacomo,60.0
-Fri Feb 21 07:21:00 2020,Bodyweight (Bootcamp),Selena Samuela,20.0
-Fri Feb 21 04:47:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Feb 20 15:18:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Tue Feb 18 15:20:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Tue Feb 18 03:49:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Sat Feb 15 07:47:00 2020,Body Focus (Bootcamp),Jess Sims,60.0
-Sat Feb 15 06:19:00 2020,Theme (Bootcamp),Matty Maggiacomo,30.0
-Fri Feb 14 05:53:00 2020,Body Focus (Bootcamp),Andy Speer,30.0
-Thu Feb 13 15:18:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Wed Feb 12 15:19:00 2020,Theme (Bootcamp),Jess Sims,45.0
-Wed Feb 12 14:19:00 2020,Bodyweight (Bootcamp),Chase Tucker,45.0
-Tue Feb 11 14:18:00 2020,Theme (Bootcamp),Rebecca Kennedy,45.0
-Tue Feb 11 03:48:00 2020,Theme (Bootcamp),Chase Tucker,30.0
-Mon Feb 10 16:19:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon Feb 10 15:17:00 2020,Theme (Bootcamp),Chase Tucker,45.0
-Mon Feb 10 04:49:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Mon Feb 10 02:47:00 2020,Body Focus (Bootcamp),Olivia Amato,45.0
-Sun Feb  9 09:15:00 2020,Body Focus (Bootcamp),Selena Samuela,45.0
-Sun Feb  9 06:19:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Sun Feb  9 05:17:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Sat Feb  8 08:00:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Sat Feb  8 06:30:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Fri Feb  7 04:47:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Wed Feb  5 14:15:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Wed Feb  5 03:49:00 2020,Theme (Bootcamp),Jess Sims,45.0
-Tue Feb  4 14:20:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Feb  4 03:47:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Mon Feb  3 04:49:00 2020,Body Focus (Bootcamp),Jess Sims,45.0
-Mon Feb  3 03:47:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Feb  1 07:47:00 2020,Theme (Bootcamp),Jess Sims,60.0
-Fri Jan 31 05:49:00 2020,Theme (Bootcamp),Andy Speer,30.0
-Thu Jan 30 16:30:00 2020,Body Focus (Bootcamp),Chase Tucker,60.0
-Thu Jan 30 15:17:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Wed Jan 29 14:15:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Jan 28 15:19:00 2020,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Jan 28 14:20:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Jan 28 03:48:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Tue Jan 28 02:47:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Jan 27 15:18:00 2020,Bodyweight (Bootcamp),Chase Tucker,45.0
-Mon Jan 27 03:48:00 2020,Bodyweight (Bootcamp),Selena Samuela,30.0
-Mon Jan 27 02:47:00 2020,Body Focus (Bootcamp),Olivia Amato,45.0
-Sat Jan 25 06:17:00 2020,Body Focus (Bootcamp),Chase Tucker,30.0
-Fri Jan 24 06:21:00 2020,Theme (Bootcamp),Andy Speer,20.0
-Thu Jan 23 16:17:00 2020,Body Focus (Bootcamp),Chase Tucker,60.0
-Thu Jan 23 15:18:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Jan 23 04:48:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Jan 23 03:47:00 2020,Theme (Bootcamp),Jess Sims,20.0
-Wed Jan 22 15:23:00 2020,Theme (Bootcamp),Matty Maggiacomo,45.0
-Wed Jan 22 03:47:00 2020,Body Focus (Bootcamp),Jess Sims,45.0
-Tue Jan 21 14:20:00 2020,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Jan 21 04:47:00 2020,Body Focus (Bootcamp),Olivia Amato,30.0
-Tue Jan 21 02:47:00 2020,Body Focus (Bootcamp),Andy Speer,30.0
-Mon Jan 20 07:50:00 2020,Bodyweight (Bootcamp),Jess Sims,45.0
-Sun Jan 19 09:19:00 2020,Theme (Bootcamp),Selena Samuela,45.0
-Sat Jan 18 07:48:00 2020,Body Focus (Bootcamp),Jess Sims,60.0
-Sat Jan 18 06:17:00 2020,Body Focus (Bootcamp),Chase Tucker,30.0
-Thu Jan 16 16:19:00 2020,Bodyweight (Bootcamp),Chase Tucker,60.0
-Thu Jan 16 15:19:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Thu Jan 16 04:48:00 2020,Bodyweight (Bootcamp),Matty Maggiacomo,30.0
-Tue Jan 14 14:19:00 2020,Bodyweight (Bootcamp),Rebecca Kennedy,45.0
-Tue Jan 14 03:49:00 2020,Body Focus (Bootcamp),Jess Sims,30.0
-Mon Jan 13 03:50:00 2020,Body Focus (Bootcamp),Selena Samuela,30.0
-Sun Jan 12 06:18:00 2020,Theme (Bootcamp),Rebecca Kennedy,30.0
-Sun Jan 12 05:18:00 2020,Bodyweight (Bootcamp),Andy Speer,45.0
-Sat Jan 11 08:00:00 2020,Theme (Bootcamp),Matty Maggiacomo,60.0
-Sat Jan 11 06:18:00 2020,Theme (Bootcamp),Chase Tucker,30.0
-Thu Jan  9 15:18:00 2020,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Jan  9 06:58:00 2020,Body Focus (Bootcamp),Olivia Amato,30.0
-Wed Jan  8 15:30:00 2020,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Jan  8 14:16:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Wed Jan  8 11:59:00 2020,Body Focus (Bootcamp),Selena Samuela,30.0
-Tue Jan  7 16:17:00 2020,Body Focus (Bootcamp),Andy Speer,60.0
-Tue Jan  7 14:16:00 2020,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Jan  7 03:47:00 2020,Theme (Bootcamp),Jess Sims,30.0
-Sun Jan  5 05:17:00 2020,Theme (Bootcamp),Andy Speer,45.0
-Sat Jan  4 08:00:00 2020,Bodyweight (Bootcamp),Jess Sims,60.0
-Mon Dec 30 07:49:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Dec 30 06:18:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sun Dec 29 06:19:00 2019,Bodyweight (Bootcamp),Rebecca Kennedy,30.0
-Sun Dec 29 05:19:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Sat Dec 28 07:49:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Sat Dec 28 06:40:00 2019,Theme (Bootcamp),Chase Tucker,30.0
-Thu Dec 26 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Dec 26 04:47:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Mon Dec 23 16:19:00 2019,Theme (Bootcamp),Rebecca Kennedy,45.0
-Mon Dec 23 04:49:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sun Dec 22 05:16:00 2019,Bodyweight (Bootcamp),Andy Speer,45.0
-Sat Dec 21 07:49:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Fri Dec 20 06:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri Dec 20 03:00:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Fri Dec 20 02:48:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Thu Dec 19 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Dec 19 04:12:00 2019,Body Focus (Bootcamp),Chase Tucker,30.0
-Tue Dec 17 15:20:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Dec 17 14:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Dec 17 02:47:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Mon Dec 16 04:48:00 2019,Theme (Bootcamp),Jess Sims,45.0
-Mon Dec 16 02:48:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Sun Dec 15 10:22:00 2019,Body Focus (Bootcamp),Selena Samuela,30.0
-Sat Dec 14 07:47:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Sat Dec 14 05:24:00 2019,Bodyweight (Bootcamp),Becs Gentry,45.0
-Thu Dec 12 15:18:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Thu Dec 12 05:48:00 2019,Body Focus (Bootcamp),Chase Tucker,20.0
-Wed Dec 11 16:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Wed Dec 11 14:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Fri Dec 13 05:00:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Tue Dec 10 04:12:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Mon Dec  9 16:18:00 2019,Theme (Bootcamp),Matty Maggiacomo,60.0
-Mon Dec  9 15:17:00 2019,Bodyweight (Bootcamp),Chase Tucker,45.0
-Sun Dec  8 05:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Sat Dec  7 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Sat Dec  7 06:17:00 2019,Theme (Bootcamp),Chase Tucker,30.0
-Fri Dec  6 08:46:00 2019,Theme (Bootcamp),Andy Speer,30.0
-Fri Dec  6 04:50:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Thu Dec  5 16:18:00 2019,Body Focus (Bootcamp),Chase Tucker,60.0
-Thu Dec  5 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Dec  5 04:13:00 2019,Theme (Bootcamp),Jess Sims,30.0
-Tue Dec  3 15:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Dec  3 02:49:00 2019,Theme (Bootcamp),Rebecca Kennedy,45.0
-Mon Dec  2 15:17:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Dec  2 05:00:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Mon Dec  2 03:48:00 2019,Theme (Bootcamp),Olivia Amato,45.0
-Mon Dec  2 02:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Sat Nov 30 07:46:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Thu Nov 28 07:45:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Nov 28 04:45:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Mon Nov 25 16:19:00 2019,Theme (Bootcamp),Matty Maggiacomo,60.0
-Sun Nov 24 06:20:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Sun Nov 24 05:19:00 2019,Bodyweight (Bootcamp),Andy Speer,45.0
-Sat Nov 23 07:48:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Thu Nov 21 02:50:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Wed Nov 20 15:22:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Nov 20 14:19:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Nov 19 16:20:00 2019,Body Focus (Bootcamp),Chase Tucker,60.0
-Tue Nov 19 15:30:00 2019,Theme (Bootcamp),Selena Samuela,45.0
-Mon Nov 18 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Mon Nov 18 04:48:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sun Nov 17 06:19:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Sun Nov 17 05:22:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Nov 16 07:49:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Fri Nov 15 05:47:00 2019,Walking Bootcamp,Andy Speer,30.0
-Thu Nov 14 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Wed Nov 13 16:18:00 2019,Theme (Bootcamp),Rebecca Kennedy,45.0
-Wed Nov 13 15:17:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Nov 13 14:18:00 2019,Bodyweight (Bootcamp),Chase Tucker,45.0
-Tue Nov 12 14:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Nov 12 03:48:00 2019,Bodyweight (Bootcamp),Jess Sims,30.0
-Mon Nov 11 04:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Sun Nov 10 09:19:00 2019,Body Focus (Bootcamp),Becs Gentry,45.0
-Sat Nov  9 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Sat Nov  9 06:18:00 2019,Theme (Bootcamp),Matty Maggiacomo,45.0
-Thu Nov  7 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Nov  7 14:17:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Thu Nov  7 03:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Wed Nov  6 14:24:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Tue Nov  5 14:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Mon Nov  4 16:17:00 2019,Body Focus (Bootcamp),Selena Samuela,60.0
-Mon Nov  4 04:49:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sat Nov  2 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Thu Oct 31 15:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Thu Oct 31 13:01:00 2019,Body Focus (Bootcamp),Olivia Amato,20.0
-Thu Oct 31 11:41:00 2019,Body Focus (Bootcamp),Chase Tucker,20.0
-Wed Oct 30 12:49:00 2019,Body Focus (Bootcamp),Jess Sims,20.0
-Wed Oct 30 04:48:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Tue Oct 29 14:19:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Mon Oct 28 15:22:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Sun Oct 27 05:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Oct 26 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Fri Oct 25 04:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri Oct 25 02:48:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Thu Oct 24 15:18:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Wed Oct 23 16:17:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Wed Oct 23 15:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Oct 21 16:18:00 2019,Theme (Bootcamp),Matty Maggiacomo,60.0
-Mon Oct 21 15:19:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Oct 21 04:49:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sat Oct 19 07:48:00 2019,Bodyweight (Bootcamp),Jess Sims,60.0
-Fri Oct 18 02:49:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Thu Oct 17 14:17:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Thu Oct 17 03:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Wed Oct 16 16:20:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue Oct 15 12:48:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Mon Oct 14 16:20:00 2019,Body Focus (Bootcamp),Selena Samuela,60.0
-Mon Oct 14 15:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Thu Oct 10 15:18:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Thu Oct 10 07:00:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Wed Oct  9 16:19:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Wed Oct  9 14:19:00 2019,Bodyweight (Bootcamp),Jess Sims,45.0
-Wed Oct  9 05:11:00 2019,Bodyweight (Bootcamp),Becs Gentry,30.0
-Mon Oct  7 04:47:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sun Oct  6 05:17:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Fri Oct  4 02:49:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Thu Oct  3 04:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Oct  3 03:47:00 2019,Theme (Bootcamp),Jess Sims,30.0
-Wed Oct  2 10:16:00 2019,Walking Bootcamp,Jess Sims,30.0
-Tue Oct  1 14:22:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Mon Sep 30 15:18:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Sat Sep 28 07:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Thu Sep 26 15:19:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Thu Sep 26 10:18:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Thu Sep 26 03:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Wed Sep 25 14:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Sep 23 16:20:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Mon Sep 23 15:18:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Mon Sep 23 03:48:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Sun Sep 22 10:35:00 2019,Bodyweight (Bootcamp),Selena Samuela,20.0
-Sun Sep 22 05:18:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Mon Sep 16 16:30:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Sun Sep 15 05:18:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Sep 14 07:48:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Fri Sep 13 02:49:00 2019,Theme (Bootcamp),Matty Maggiacomo,30.0
-Thu Sep 12 16:17:00 2019,Body Focus (Bootcamp),Andy Speer,60.0
-Wed Sep 11 16:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Wed Sep 11 15:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Sep 11 07:04:00 2019,Walking Bootcamp,Jess Sims,30.0
-Tue Sep 10 15:18:00 2019,Bodyweight (Bootcamp),Selena Samuela,45.0
-Tue Sep 10 14:16:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Sep  9 15:18:00 2019,Bodyweight (Bootcamp),Chase Tucker,45.0
-Sun Sep  8 05:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Sep  7 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Thu Sep  5 03:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Sep  4 15:18:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Wed Sep  4 04:47:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Tue Sep  3 15:18:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Sep  3 14:20:00 2019,Theme (Bootcamp),Rebecca Kennedy,45.0
-Tue Sep  3 12:46:00 2019,Body Focus (Bootcamp),Chase Tucker,30.0
-Tue Sep  3 04:10:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Mon Sep  2 06:17:00 2019,Bodyweight (Bootcamp),Jess Sims,45.0
-Mon Sep  2 05:18:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Sat Aug 31 07:49:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Sat Aug 31 06:17:00 2019,Body Focus (Bootcamp),Chase Tucker,20.0
-Wed Aug 28 15:19:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Tue Aug 27 14:19:00 2019,Theme (Bootcamp),Rebecca Kennedy,30.0
-Sun Aug 25 06:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Sun Aug 25 05:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Thu Aug 22 16:17:00 2019,Body Focus (Bootcamp),Chase Tucker,60.0
-Wed Aug 21 16:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Wed Aug 21 14:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Aug 20 15:18:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Aug 20 03:47:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Mon Aug 19 16:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Aug 19 15:17:00 2019,Heart Rate Bootcamp,Chase Tucker,45.0
-Mon Aug 19 04:47:00 2019,Theme (Bootcamp),Jess Sims,20.0
-Mon Aug 19 03:48:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Thu Aug 15 03:10:00 2019,Body Focus (Bootcamp),Becs Gentry,30.0
-Tue Aug 13 15:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Mon Aug 12 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon Aug 12 15:19:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Mon Aug 12 04:48:00 2019,Bodyweight (Bootcamp),Jess Sims,45.0
-Sat Aug 10 07:47:00 2019,Theme (Bootcamp),Jess Sims,60.0
-Sat Aug 10 06:17:00 2019,Body Focus (Bootcamp),Chase Tucker,20.0
-Tue Aug  6 13:16:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Thu Aug  1 03:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Wed Jul 31 15:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Jul 29 04:48:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Fri Jul 26 06:00:00 2019,Walking Bootcamp,Matty Maggiacomo,30.0
-Thu Jul 25 05:00:00 2019,Theme (Bootcamp),Matty Maggiacomo,30.0
-Wed Jul 24 15:30:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Wed Jul 24 14:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue Jul 23 15:18:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Jul 23 13:00:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Mon Jul 22 04:47:00 2019,Theme (Bootcamp),Jess Sims,45.0
-Mon Jul 22 02:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri Jul 19 04:53:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Jul 18 16:19:00 2019,Body Focus (Bootcamp),Andy Speer,60.0
-Wed Jul 17 14:14:00 2019,Bodyweight (Bootcamp),Chase Tucker,45.0
-Tue Jul 16 15:22:00 2019,Bodyweight (Bootcamp),Selena Samuela,45.0
-Mon Jul 15 15:18:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Mon Jul 15 14:19:00 2019,Bodyweight (Bootcamp),Matty Maggiacomo,20.0
-Thu Jul 11 14:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Jul  8 16:20:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon Jul  8 03:15:00 2019,Theme (Bootcamp),Selena Samuela,30.0
-Sat Jul  6 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Sat Jul  6 05:18:00 2019,Body Focus (Bootcamp),Becs Gentry,45.0
-Tue Jul  2 05:50:00 2019,Body Focus (Bootcamp),Andy Speer,20.0
-Mon Jul  1 16:18:00 2019,Body Focus (Bootcamp),Andy Speer,60.0
-Mon Jul  1 04:48:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Sat Jun 29 06:19:00 2019,Heart Rate Bootcamp,Chase Tucker,30.0
-Fri Jun 28 05:50:00 2019,Walking Bootcamp,Andy Speer,30.0
-Thu Jun 27 04:49:00 2019,Body Focus (Bootcamp),Selena Samuela,30.0
-Wed Jun 26 14:19:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Jun 24 07:21:00 2019,Bodyweight (Bootcamp),Becs Gentry,30.0
-Mon Jun 24 04:47:00 2019,Bodyweight (Bootcamp),Jess Sims,20.0
-Thu Jun 20 14:19:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Wed Jun 19 15:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Tue Jun 18 03:48:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Mon Jun 17 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon Jun 17 05:50:00 2019,Body Focus (Bootcamp),Becs Gentry,30.0
-Fri Jun 14 02:50:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Thu Jun 13 15:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Thu Jun 13 03:50:00 2019,Theme (Bootcamp),Jess Sims,30.0
-Wed Jun 12 03:49:00 2019,Heart Rate Bootcamp,Jess Sims,45.0
-Tue Jun 11 03:50:00 2019,Body Focus (Bootcamp),Jess Sims,20.0
-Mon Jun 10 16:20:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Sun Jun  9 05:17:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Jun  8 06:19:00 2019,Body Focus (Bootcamp),Chase Tucker,30.0
-Sat Jun  8 05:30:00 2019,Body Focus (Bootcamp),Becs Gentry,45.0
-Thu Jun  6 16:21:00 2019,Heart Rate Bootcamp,Andy Speer,60.0
-Thu Jun  6 15:18:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Thu Jun  6 04:00:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Wed Jun  5 14:30:00 2019,Bodyweight (Bootcamp),Chase Tucker,45.0
-Sun Jun  2 07:48:00 2019,Body Focus (Bootcamp),Chase Tucker,60.0
-Thu May 30 14:19:00 2019,Theme (Bootcamp),Jess Sims,45.0
-Wed May 29 14:18:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Tue May 28 14:18:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Sun May 26 07:48:00 2019,Heart Rate Bootcamp,Selena Samuela,60.0
-Sat May 25 07:48:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Fri May 24 08:30:00 2019,Body Focus (Bootcamp),Olivia Amato,20.0
-Tue May 21 15:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue May 21 14:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Tue May 21 05:47:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon May 20 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Sat May 18 07:47:00 2019,Body Focus (Bootcamp),Jess Sims,60.0
-Thu May 16 16:17:00 2019,Body Focus (Bootcamp),Andy Speer,60.0
-Wed May 15 15:18:00 2019,Heart Rate Bootcamp,Matty Maggiacomo,45.0
-Tue May 14 15:20:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue May 14 04:50:00 2019,Body Focus (Bootcamp),Olivia Amato,45.0
-Mon May 13 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon May 13 15:20:00 2019,Bodyweight (Bootcamp),Rebecca Kennedy,30.0
-Mon May 13 04:47:00 2019,Body Focus (Bootcamp),Jess Sims,45.0
-Wed May  8 14:30:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Tue May  7 15:19:00 2019,Theme (Bootcamp),Selena Samuela,45.0
-Mon May  6 15:20:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Sun May  5 11:19:00 2019,Theme (Bootcamp),Matty Maggiacomo,30.0
-Sat May  4 12:49:00 2019,Theme (Bootcamp),Chase Tucker,30.0
-Sat May  4 10:48:00 2019,Body Focus (Bootcamp),Andy Speer,30.0
-Sat May  4 08:45:00 2019,Body Focus (Bootcamp),Olivia Amato,30.0
-Sat May  4 05:48:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri May  3 13:51:00 2019,Body Focus (Bootcamp),Jess Sims,30.0
-Fri May  3 11:47:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Fri May  3 06:18:00 2019,Theme (Bootcamp),Chase Tucker,30.0
-Thu May  2 14:18:00 2019,Heart Rate Bootcamp,Jess Sims,45.0
-Sat Apr 27 09:20:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri Apr 26 03:49:00 2019,Theme (Bootcamp),Selena Samuela,45.0
-Thu Apr 25 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Wed Apr 24 03:49:00 2019,Theme (Bootcamp),Jess Sims,30.0
-Tue Apr 23 05:21:00 2019,Theme (Bootcamp),Olivia Amato,20.0
-Mon Apr 22 16:19:00 2019,Heart Rate Bootcamp,Matty Maggiacomo,60.0
-Mon Apr 22 15:20:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Apr 22 10:21:00 2019,Body Focus (Bootcamp),Andy Speer,20.0
-Mon Apr 22 03:47:00 2019,Body Focus (Bootcamp),Olivia Amato,30.0
-Sun Apr 21 05:18:00 2019,Heart Rate Bootcamp,Andy Speer,45.0
-Fri Apr 19 03:48:00 2019,Body Focus (Bootcamp),Selena Samuela,30.0
-Wed Apr 17 15:19:00 2019,Bodyweight (Bootcamp),Matty Maggiacomo,30.0
-Tue Apr 16 16:18:00 2019,Theme (Bootcamp),Chase Tucker,45.0
-Tue Apr 16 04:48:00 2019,Body Focus (Bootcamp),Olivia Amato,30.0
-Mon Apr 15 16:18:00 2019,Heart Rate Bootcamp,Matty Maggiacomo,60.0
-Sun Apr 14 05:19:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Apr 13 07:49:00 2019,Body Focus (Bootcamp),Chase Tucker,60.0
-Thu Apr 11 14:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Apr 11 03:49:00 2019,Theme (Bootcamp),Olivia Amato,30.0
-Tue Apr  9 14:17:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Tue Apr  9 04:48:00 2019,Body Focus (Bootcamp),Olivia Amato,30.0
-Mon Apr  8 14:19:00 2019,Body Focus (Bootcamp),Robin Arzon,45.0
-Mon Apr  8 02:48:00 2019,Body Focus (Bootcamp),Becs Gentry,45.0
-Sun Apr  7 05:18:00 2019,Body Focus (Bootcamp),Andy Speer,45.0
-Sat Apr  6 10:22:00 2019,Body Focus (Bootcamp),Chase Tucker,20.0
-Wed Apr  3 16:19:00 2019,Body Focus (Bootcamp),Rebecca Kennedy,60.0
-Wed Apr  3 15:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Wed Apr  3 12:48:00 2019,Body Focus (Bootcamp),Jess Sims,20.0
-Wed Apr  3 04:48:00 2019,Theme (Bootcamp),Andy Speer,45.0
-Tue Apr  2 15:18:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Apr  2 04:48:00 2019,Body Focus (Bootcamp),Olivia Amato,30.0
-Mon Apr  1 15:21:00 2019,Body Focus (Bootcamp),Chase Tucker,45.0
-Mon Apr  1 08:03:00 2019,Bodyweight (Bootcamp),Rebecca Kennedy,20.0
-Sat Mar 30 05:17:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Fri Mar 29 07:22:00 2019,Walking Bootcamp,Olivia Amato,30.0
-Wed Mar 27 10:19:00 2019,Body Focus (Bootcamp),Selena Samuela,30.0
-Tue Mar 26 15:19:00 2019,Body Focus (Bootcamp),Selena Samuela,45.0
-Tue Mar 26 14:20:00 2019,Theme (Bootcamp),Rebecca Kennedy,45.0
-Mon Mar 25 16:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Sat Mar 23 09:22:00 2019,Walking Bootcamp,Olivia Amato,30.0
-Thu Mar 21 16:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Wed Mar 20 15:18:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Mar 18 16:19:00 2019,Heart Rate Bootcamp,Matty Maggiacomo,60.0
-Sun Mar 17 05:19:00 2019,Bodyweight (Bootcamp),Selena Samuela,45.0
-Fri Mar 15 02:49:00 2019,Theme (Bootcamp),Rebecca Kennedy,20.0
-Mon Feb 25 02:49:00 2019,Heart Rate Bootcamp,Selena Samuela,30.0
-Tue Feb 12 16:18:00 2019,Body Focus (Bootcamp),Olivia Amato,60.0
-Sat Feb  9 06:19:00 2019,Body Focus (Bootcamp),Robin Arzon,20.0
-Fri Feb  8 04:49:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Feb  7 02:50:00 2019,Body Focus (Bootcamp),Chase Tucker,29.0
-Tue Jan 29 07:07:00 2019,Body Focus (Bootcamp),Andy Speer,30.0
-Tue Jan 29 06:08:00 2019,Walking Bootcamp,Chase Tucker,30.0
-Wed Jan 16 15:19:00 2019,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Tue Jan 15 02:49:00 2019,Theme (Bootcamp),Andy Speer,20.0
-Sat Jan 12 09:20:00 2019,Theme (Bootcamp),Matty Maggiacomo,20.0
-Fri Jan 11 06:24:00 2019,Body Focus (Bootcamp),Andy Speer,20.0
-Sat Jan  5 09:35:00 2019,Walking Bootcamp,Matty Maggiacomo,30.0
-Thu Jan  3 03:50:00 2019,Bodyweight (Bootcamp),Olivia Amato,45.0
-Wed Jan  2 04:50:00 2019,Body Focus (Bootcamp),Andy Speer,30.0
-Wed Dec 26 07:49:00 2018,Body Focus (Bootcamp),Selena Samuela,60.0
-Tue Dec 18 13:52:00 2018,Walking Bootcamp,Chase Tucker,30.0
-Mon Dec 17 16:19:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,60.0
-Mon Dec 17 15:19:00 2018,Body Focus (Bootcamp),Chase Tucker,45.0
-Sun Dec 16 07:50:00 2018,Heart Rate Bootcamp,Olivia Amato,60.0
-Wed Dec 12 02:50:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,20.0
-Mon Dec 10 16:20:00 2018,Heart Rate Bootcamp,Matty Maggiacomo,60.0
-Mon Dec 10 06:40:00 2018,Walking Bootcamp,Andy Speer,30.0
-Wed Dec  5 16:19:00 2018,Heart Rate Bootcamp,Selena Samuela,60.0
-Fri Nov 30 06:07:00 2018,Body Focus (Bootcamp),Olivia Amato,20.0
-Wed Nov 28 02:48:00 2018,Heart Rate Bootcamp,Matty Maggiacomo,45.0
-Mon Nov 19 16:20:00 2018,Heart Rate Bootcamp,Matty Maggiacomo,60.0
-Mon Nov 19 10:20:00 2018,Walking Bootcamp,Olivia Amato,30.0
-Mon Nov 19 02:49:00 2018,Theme (Bootcamp),Selena Samuela,45.0
-Fri Nov 16 04:49:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Fri Nov 16 03:50:00 2018,Heart Rate Bootcamp,Selena Samuela,30.0
-Tue Nov 13 16:20:00 2018,Body Focus (Bootcamp),Selena Samuela,60.0
-Tue Nov 13 04:49:00 2018,Bodyweight (Bootcamp),Olivia Amato,30.0
-Wed Nov  7 02:49:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Tue Nov  6 09:26:00 2018,Body Focus (Bootcamp),Andy Speer,20.0
-Mon Nov  5 10:49:00 2018,Body Focus (Bootcamp),Olivia Amato,20.0
-Sat Nov  3 10:19:00 2018,Body Focus (Bootcamp),Olivia Amato,20.0
-Fri Nov  2 08:11:00 2018,Walking Bootcamp,Matty Maggiacomo,30.0
-Fri Nov  2 06:10:00 2018,Walking Bootcamp,Rebecca Kennedy,30.0
-Fri Nov  2 02:49:00 2018,Body Focus (Bootcamp),Becs Gentry,30.0
-Tue Oct 23 04:49:00 2018,Heart Rate Bootcamp,Selena Samuela,30.0
-Sun Oct 21 09:20:00 2018,Walking Bootcamp,Rebecca Kennedy,20.0
-Fri Oct 19 07:19:00 2018,Body Focus (Bootcamp),Andy Speer,30.0
-Mon Oct 15 06:33:00 2018,Walking Bootcamp,Robin Arzon,30.0
-Mon Oct 15 03:49:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Fri Oct 12 06:04:00 2018,Body Focus (Bootcamp),Becs Gentry,20.0
-Fri Oct 12 04:49:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Thu Oct 11 11:04:00 2018,Body Focus (Bootcamp),Robin Arzon,20.0
-Thu Oct 11 06:35:00 2018,Body Focus (Bootcamp),Selena Samuela,20.0
-Tue Oct  9 04:50:00 2018,Heart Rate Bootcamp,Selena Samuela,30.0
-Wed Sep 19 16:20:00 2018,Heart Rate Bootcamp,Chase Tucker,30.0
-Mon Sep 17 16:20:00 2018,Theme (Bootcamp),Andy Speer,30.0
-Mon Sep 17 09:35:00 2018,Body Focus (Bootcamp),Chase Tucker,20.0
-Fri Sep 14 11:45:00 2018,Body Focus (Bootcamp),Andy Speer,20.0
-Mon Sep 10 13:49:00 2018,Walking Bootcamp,Becs Gentry,30.0
-Mon Sep 10 12:40:00 2018,Body Focus (Bootcamp),Andy Speer,30.0
-Wed Aug 22 13:20:00 2018,Body Focus (Bootcamp),Selena Samuela,20.0
-Mon Aug 20 15:20:00 2018,Theme (Bootcamp),Selena Samuela,45.0
-Mon Aug 20 03:50:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Sat Aug 18 06:19:00 2018,Body Focus (Bootcamp),Selena Samuela,30.0
-Fri Aug 17 07:19:00 2018,Walking Bootcamp,Andy Speer,30.0
-Thu Aug 16 03:50:00 2018,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Mon Aug 13 03:50:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Tue Aug  7 06:20:00 2018,Walking Bootcamp,Robin Arzon,30.0
-Tue Jul 31 06:20:00 2018,Body Focus (Bootcamp),Robin Arzon,30.0
-Tue Jul 17 04:50:00 2018,Body Focus (Bootcamp),Selena Samuela,30.0
-Thu Jul 12 04:50:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Wed Jul 11 16:20:00 2018,Theme (Bootcamp),Andy Speer,30.0
-Wed Jul  4 05:19:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Thu Jun 21 15:19:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,45.0
-Mon Jun 18 06:36:00 2018,Body Focus (Bootcamp),Robin Arzon,30.0
-Fri Jun 15 09:19:00 2018,Body Focus (Bootcamp),Rebecca Kennedy,30.0
-Mon Jun 11 15:20:00 2018,Theme (Bootcamp),Matty Maggiacomo,45.0
-Mon Jun 11 04:50:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Wed Jun  6 15:19:00 2018,Heart Rate Bootcamp,Rebecca Kennedy,45.0
-Fri Jun  1 02:49:00 2018,Body Focus (Bootcamp),Rebecca Kennedy,45.0
-Fri May 25 03:50:00 2018,Theme (Bootcamp),Olivia Amato,45.0
-Fri May 18 02:50:00 2018,Body Focus (Bootcamp),Rebecca Kennedy,45.016666666666666
-Mon May  7 15:19:00 2018,Theme (Bootcamp),Matty Maggiacomo,45.0
-Mon May  7 04:52:00 2018,Body Focus (Bootcamp),Matty Maggiacomo,30.0
-Sun May  6 10:20:00 2018,Theme (Bootcamp),Matty Maggiacomo,45.0
-Fri Aug 24 06:30:00 2018,Body Focus (Bootcamp),Rebecca Kennedy,20.0
-Mon Oct 15 13:49:00 2018,Body Focus (Bootcamp),Andy Speer,30.0
-Tue Jun 19 15:30:00 2018,Bodyweight (Bootcamp),Matty Maggiacomo,45.0
+Original Air Date,Title,Instructor,Length,Type
+Sat Jun 20 11:48:00 2020,60 min Pop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Wed Jun 17 06:24:00 2020,30 min Bootcamp: Core,Olivia Amato,30.0,Body Focus (Bootcamp)
+Mon Jun 15 14:48:00 2020,30 min Bootcamp: Bodyweight,Rebecca Kennedy,30.0,Bodyweight (Bootcamp)
+Sat Jun 13 11:51:00 2020,60 min 90s Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Jun 12 07:00:00 2020,30 min Bootcamp: Core,Chase Tucker,30.0,Body Focus (Bootcamp)
+Wed Jun 10 07:00:00 2020,30 min Bootcamp: Arms & Shoulders,Chase Tucker,30.0,Body Focus (Bootcamp)
+Tue Jun  9 14:49:00 2020,45 min Hip Hop Bootcamp,Adrian Williams,45.0,Theme (Bootcamp)
+Sat Jun  6 11:50:00 2020,60 min Hip Hop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Jun  6 07:00:00 2020,45 min Pride Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Mon Jun  1 11:50:00 2020,45 min Bootcamp: Bodyweight,Andy Speer,45.0,Bodyweight (Bootcamp)
+Mon Jun  1 07:00:00 2020,60 min Bootcamp: Bodyweight,Jess Sims,60.0,Bodyweight (Bootcamp)
+Sun May 31 14:48:00 2020,45 min Bootcamp: Bodyweight,Selena Samuela,45.0,Bodyweight (Bootcamp)
+Sat May 30 07:00:00 2020,30 min Bootcamp: Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Thu May 28 06:00:00 2020,30 min 90s Bootcamp,Adrian Williams,30.0,Theme (Bootcamp)
+Wed May 27 09:00:00 2020,45 min Bootcamp: Full Body,Jess Sims,45.0,Body Focus (Bootcamp)
+Wed May 27 09:00:00 2020,30 min Bootcamp: Core,Jess Sims,30.0,Body Focus (Bootcamp)
+Tue May 26 11:50:00 2020,30 min House Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Wed Apr  8 06:30:00 2020,30 min Bootcamp: Full Body,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Sat Mar 28 07:21:00 2020,60 min Pop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Mar 27 07:55:00 2020,30 min Bootcamp: Full Body,Chase Tucker,30.0,Body Focus (Bootcamp)
+Mon Mar 23 07:19:00 2020,45 min Bootcamp: Bodyweight,Selena Samuela,45.0,Bodyweight (Bootcamp)
+Sat Mar 21 07:19:00 2020,60 min Hip Hop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Mar 20 10:17:00 2020,45 min Caribbean Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Fri Mar 20 07:19:00 2020,45 min Bootcamp: Full Body,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Mar 14 07:48:00 2020,60 min 2000s Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Thu Mar 12 15:19:00 2020,45 min Bootcamp: Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Mar 12 14:18:00 2020,45 min Bootcamp: Full Body,Olivia Amato,45.0,Body Focus (Bootcamp)
+Wed Mar 11 14:16:00 2020,45 min WHM Celebration Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Mar 10 14:20:00 2020,30 min Hip Hop Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Tue Mar 10 03:48:00 2020,30 min Bootcamp: Core,Jess Sims,30.0,Body Focus (Bootcamp)
+Mon Mar  9 16:19:00 2020,45 min Bootcamp: Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Mar  9 05:00:00 2020,45 min WHM Celebration Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Sat Mar  7 07:47:00 2020,60 min Bootcamp: Arms & Shoulders,Jess Sims,60.0,Body Focus (Bootcamp)
+Thu Mar  5 15:17:00 2020,45 min Bootcamp: Full Body,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Mar  5 04:47:00 2020,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Wed Mar  4 14:13:00 2020,45 min Bootcamp: Glutes & Legs,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Mar  3 03:48:00 2020,30 min Bootcamp: Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Tue Mar  3 02:49:00 2020,45 min Bootcamp: Bodyweight,Andy Speer,45.0,Bodyweight (Bootcamp)
+Mon Mar  2 15:17:00 2020,45 min Punk Rock Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Mar  2 04:49:00 2020,45 min 90s Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Sun Mar  1 06:19:00 2020,30 min Bootcamp: Full Body,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Sun Mar  1 05:20:00 2020,45 min 80s Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Sat Feb 29 07:46:00 2020,60 min Two for One: BHM Bootcamp,Multiple Instructors,60.0,Theme (Bootcamp)
+Sat Feb 29 05:18:00 2020,45 min Bootcamp: Core,Selena Samuela,45.0,Body Focus (Bootcamp)
+Fri Feb 28 08:49:00 2020,30 min Hip Hop Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Fri Feb 28 04:47:00 2020,30 min Pop Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Wed Feb 26 14:15:00 2020,45 min Hip Hop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Feb 25 15:21:00 2020,45 min Rock Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Tue Feb 25 14:18:00 2020,45 min 90s Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Mon Feb 24 16:19:00 2020,30 min EDM Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Mon Feb 24 15:18:00 2020,45 min BHM Soca Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Feb 24 04:49:00 2020,45 min Bootcamp: Core,Jess Sims,45.0,Body Focus (Bootcamp)
+Sun Feb 23 06:18:00 2020,30 min Bootcamp: Full Body,Selena Samuela,30.0,Body Focus (Bootcamp)
+Sat Feb 22 07:49:00 2020,60 min 90s Bootcamp,Matty Maggiacomo,60.0,Theme (Bootcamp)
+Fri Feb 21 07:21:00 2020,20 min Bootcamp: Bodyweight,Selena Samuela,20.0,Bodyweight (Bootcamp)
+Fri Feb 21 04:47:00 2020,30 min Bootcamp: Full Body,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Feb 20 15:18:00 2020,45 min Bootcamp: Glutes & Legs,Andy Speer,45.0,Body Focus (Bootcamp)
+Tue Feb 18 15:20:00 2020,45 min Trap Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Feb 18 03:49:00 2020,30 min Bootcamp: Glutes & Legs,Jess Sims,30.0,Body Focus (Bootcamp)
+Sat Feb 15 07:47:00 2020,60 min Bootcamp: Full Body,Jess Sims,60.0,Body Focus (Bootcamp)
+Sat Feb 15 06:19:00 2020,30 min Broadway Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Fri Feb 14 05:53:00 2020,30 min Bootcamp: Full Body,Andy Speer,30.0,Body Focus (Bootcamp)
+Thu Feb 13 15:18:00 2020,45 min Bootcamp: Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Wed Feb 12 15:19:00 2020,45 min 2000s Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Wed Feb 12 14:19:00 2020,45 min Bootcamp: Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Tue Feb 11 14:18:00 2020,45 min 80s Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Tue Feb 11 03:48:00 2020,30 min Hip Hop Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Mon Feb 10 16:19:00 2020,60 min Bootcamp: Core,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon Feb 10 15:17:00 2020,45 min R&B Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Feb 10 04:49:00 2020,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Mon Feb 10 02:47:00 2020,45 min Bootcamp: Core,Olivia Amato,45.0,Body Focus (Bootcamp)
+Sun Feb  9 09:15:00 2020,45 min Bootcamp: Chest & Back,Selena Samuela,45.0,Body Focus (Bootcamp)
+Sun Feb  9 06:19:00 2020,30 min Bootcamp: Full Body,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Sun Feb  9 05:17:00 2020,45 min Hip Hop Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Sat Feb  8 08:00:00 2020,60 min 90s Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Feb  8 06:30:00 2020,45 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Fri Feb  7 04:47:00 2020,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Wed Feb  5 14:15:00 2020,45 min Bootcamp: Glutes & Legs,Chase Tucker,45.0,Body Focus (Bootcamp)
+Wed Feb  5 03:49:00 2020,45 min Hip Hop Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Tue Feb  4 14:20:00 2020,45 min Bootcamp: Core,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Feb  4 03:47:00 2020,30 min Bootcamp: Core,Jess Sims,30.0,Body Focus (Bootcamp)
+Mon Feb  3 04:49:00 2020,45 min Bootcamp: Arms & Shoulders,Jess Sims,45.0,Body Focus (Bootcamp)
+Mon Feb  3 03:47:00 2020,45 min Bootcamp: Full Body,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Feb  1 07:47:00 2020,60 min BHM Celebration Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Jan 31 05:49:00 2020,30 min Hip Hop Bootcamp,Andy Speer,30.0,Theme (Bootcamp)
+Thu Jan 30 16:30:00 2020,60 min Bootcamp: Arms & Shoulders,Chase Tucker,60.0,Body Focus (Bootcamp)
+Thu Jan 30 15:17:00 2020,45 min Guns N' Roses Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Wed Jan 29 14:15:00 2020,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Jan 28 15:19:00 2020,45 min Run + Glutes & Legs,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Jan 28 14:20:00 2020,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Jan 28 03:48:00 2020,30 min Bootcamp: Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Tue Jan 28 02:47:00 2020,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Jan 27 15:18:00 2020,45 min Bootcamp: Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Mon Jan 27 03:48:00 2020,30 min Bootcamp: Bodyweight,Selena Samuela,30.0,Bodyweight (Bootcamp)
+Mon Jan 27 02:47:00 2020,45 min Bootcamp: Arms & Shoulders,Olivia Amato,45.0,Body Focus (Bootcamp)
+Sat Jan 25 06:17:00 2020,30 min Bootcamp: Arms & Shoulders,Chase Tucker,30.0,Body Focus (Bootcamp)
+Fri Jan 24 06:21:00 2020,20 min 80s Bootcamp,Andy Speer,20.0,Theme (Bootcamp)
+Thu Jan 23 16:17:00 2020,60 min Bootcamp: Arms & Shoulders,Chase Tucker,60.0,Body Focus (Bootcamp)
+Thu Jan 23 15:18:00 2020,45 min Bootcamp: Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Jan 23 04:48:00 2020,30 min Bootcamp: Full Body,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Jan 23 03:47:00 2020,20 min New Tracks Bootcamp,Jess Sims,20.0,Theme (Bootcamp)
+Wed Jan 22 15:23:00 2020,45 min New Tracks Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Wed Jan 22 03:47:00 2020,45 min Bootcamp: Core,Jess Sims,45.0,Body Focus (Bootcamp)
+Tue Jan 21 14:20:00 2020,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Jan 21 04:47:00 2020,30 min Bootcamp: Full Body,Olivia Amato,30.0,Body Focus (Bootcamp)
+Tue Jan 21 02:47:00 2020,30 min Bootcamp: Full Body,Andy Speer,30.0,Body Focus (Bootcamp)
+Mon Jan 20 07:50:00 2020,45 min Bootcamp: Bodyweight,Jess Sims,45.0,Bodyweight (Bootcamp)
+Sun Jan 19 09:19:00 2020,45 min Hip Hop Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Sat Jan 18 07:48:00 2020,60 min Bootcamp: Arms & Shoulders,Jess Sims,60.0,Body Focus (Bootcamp)
+Sat Jan 18 06:17:00 2020,30 min Bootcamp: Chest & Back,Chase Tucker,30.0,Body Focus (Bootcamp)
+Thu Jan 16 16:19:00 2020,60 min Bootcamp: Bodyweight,Chase Tucker,60.0,Bodyweight (Bootcamp)
+Thu Jan 16 15:19:00 2020,45 min Punk Rock Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Thu Jan 16 04:48:00 2020,30 min Bootcamp: Bodyweight,Matty Maggiacomo,30.0,Bodyweight (Bootcamp)
+Tue Jan 14 14:19:00 2020,45 min Bootcamp: Bodyweight,Rebecca Kennedy,45.0,Bodyweight (Bootcamp)
+Tue Jan 14 03:49:00 2020,30 min Bootcamp: Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Mon Jan 13 03:50:00 2020,30 min Bootcamp: Glutes & Legs,Selena Samuela,30.0,Body Focus (Bootcamp)
+Sun Jan 12 06:18:00 2020,30 min 90s Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Sun Jan 12 05:18:00 2020,45 min Bootcamp: Bodyweight,Andy Speer,45.0,Bodyweight (Bootcamp)
+Sat Jan 11 08:00:00 2020,60 min Pop Bootcamp,Matty Maggiacomo,60.0,Theme (Bootcamp)
+Sat Jan 11 06:18:00 2020,30 min Hip Hop Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Thu Jan  9 15:18:00 2020,45 min Bootcamp: Glutes & Legs,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Jan  9 06:58:00 2020,30 min Bootcamp: Full Body,Olivia Amato,30.0,Body Focus (Bootcamp)
+Wed Jan  8 15:30:00 2020,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Jan  8 14:16:00 2020,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Wed Jan  8 11:59:00 2020,30 min Bootcamp: Full Body,Selena Samuela,30.0,Body Focus (Bootcamp)
+Tue Jan  7 16:17:00 2020,60 min Bootcamp: Full Body,Andy Speer,60.0,Body Focus (Bootcamp)
+Tue Jan  7 14:16:00 2020,45 min Bootcamp: Core,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Jan  7 03:47:00 2020,30 min Pop Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Sun Jan  5 05:17:00 2020,45 min Pop Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Sat Jan  4 08:00:00 2020,60 min Bootcamp: Bodyweight,Jess Sims,60.0,Bodyweight (Bootcamp)
+Mon Dec 30 07:49:00 2019,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Dec 30 06:18:00 2019,45 min Bootcamp: Core,Jess Sims,45.0,Body Focus (Bootcamp)
+Sun Dec 29 06:19:00 2019,30 min Bootcamp: Bodyweight,Rebecca Kennedy,30.0,Bodyweight (Bootcamp)
+Sun Dec 29 05:19:00 2019,45 min Best of the Decade Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Sat Dec 28 07:49:00 2019,60 min Best of the Decade Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Dec 28 06:40:00 2019,30 min Best of the Decade Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Thu Dec 26 15:17:00 2019,45 min Bootcamp: Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Dec 26 04:47:00 2019,45 min Hip Hop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Dec 23 16:19:00 2019,45 min Rock Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Mon Dec 23 04:49:00 2019,45 min Bootcamp: Full Body,Jess Sims,45.0,Body Focus (Bootcamp)
+Sun Dec 22 05:16:00 2019,45 min Bootcamp: Bodyweight,Andy Speer,45.0,Bodyweight (Bootcamp)
+Sat Dec 21 07:49:00 2019,60 min Bootcamp: Chest & Back,Jess Sims,60.0,Body Focus (Bootcamp)
+Fri Dec 20 06:49:00 2019,30 min Bootcamp: Full Body,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri Dec 20 03:00:00 2019,30 min Holiday Bootcamp,Jess Sims,30.0,Body Focus (Bootcamp)
+Fri Dec 20 02:48:00 2019,30 min Pop Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Thu Dec 19 15:17:00 2019,45 min Bootcamp: Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Dec 19 04:12:00 2019,30 min Bootcamp: Arms & Shoulders,Chase Tucker,30.0,Body Focus (Bootcamp)
+Tue Dec 17 15:20:00 2019,45 min Run + Arms & Shoulders,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Dec 17 14:19:00 2019,45 min Bootcamp: Core,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Dec 17 02:47:00 2019,45 min 90s Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Dec 16 04:48:00 2019,45 min 90s Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Mon Dec 16 02:48:00 2019,45 min Bootcamp: Arms & Shoulders,Olivia Amato,45.0,Body Focus (Bootcamp)
+Sun Dec 15 10:22:00 2019,30 min Bootcamp: Full Body,Selena Samuela,30.0,Body Focus (Bootcamp)
+Sat Dec 14 07:47:00 2019,60 min R&B Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Dec 14 05:24:00 2019,45 min Run + Bodyweight,Becs Gentry,45.0,Bodyweight (Bootcamp)
+Thu Dec 12 15:18:00 2019,45 min Metal Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Thu Dec 12 05:48:00 2019,20 min Bootcamp: Arms & Shoulders,Chase Tucker,20.0,Body Focus (Bootcamp)
+Wed Dec 11 16:19:00 2019,45 min Bootcamp: Glutes & Legs,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Wed Dec 11 14:18:00 2019,45 min Bootcamp: Chest & Back,Chase Tucker,45.0,Body Focus (Bootcamp)
+Fri Dec 13 05:00:00 2019,45 min Holiday Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Dec 10 04:12:00 2019,30 min 80s Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Mon Dec  9 16:18:00 2019,60 min EDM Bootcamp,Matty Maggiacomo,60.0,Theme (Bootcamp)
+Mon Dec  9 15:17:00 2019,45 min Bootcamp: Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Sun Dec  8 05:19:00 2019,45 min Bootcamp: Full Body,Selena Samuela,45.0,Body Focus (Bootcamp)
+Sat Dec  7 07:48:00 2019,60 min Bootcamp: Full Body,Jess Sims,60.0,Body Focus (Bootcamp)
+Sat Dec  7 06:17:00 2019,30 min R&B Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Fri Dec  6 08:46:00 2019,30 min Holiday Bootcamp,Andy Speer,30.0,Theme (Bootcamp)
+Fri Dec  6 04:50:00 2019,30 min 2000s Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Thu Dec  5 16:18:00 2019,60 min Bootcamp: Glutes & Legs,Chase Tucker,60.0,Body Focus (Bootcamp)
+Thu Dec  5 15:17:00 2019,45 min Bootcamp: Arms & Shoulders,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Dec  5 04:13:00 2019,30 min Pop Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Tue Dec  3 15:19:00 2019,45 min Bootcamp: Core,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Dec  3 02:49:00 2019,45 min Pop Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Mon Dec  2 15:17:00 2019,45 min Bootcamp: Core,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Dec  2 05:00:00 2019,45 min Bootcamp: Arms & Shoulders,Jess Sims,45.0,Body Focus (Bootcamp)
+Mon Dec  2 03:48:00 2019,45 min EDM Bootcamp,Olivia Amato,45.0,Theme (Bootcamp)
+Mon Dec  2 02:49:00 2019,30 min Bootcamp: Full Body,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Sat Nov 30 07:46:00 2019,60 min Bootcamp: Full Body,Jess Sims,60.0,Body Focus (Bootcamp)
+Thu Nov 28 07:45:00 2019,45 min Turkey Burn Bootcamp,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Nov 28 04:45:00 2019,45 min Turkey Burn Bootcamp,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Mon Nov 25 16:19:00 2019,60 min 80s Bootcamp,Matty Maggiacomo,60.0,Theme (Bootcamp)
+Sun Nov 24 06:20:00 2019,45 min Bootcamp: Arms & Shoulders,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Sun Nov 24 05:19:00 2019,45 min Bootcamp: Bodyweight,Andy Speer,45.0,Bodyweight (Bootcamp)
+Sat Nov 23 07:48:00 2019,60 min Pop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Thu Nov 21 02:50:00 2019,45 min Bootcamp: Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Wed Nov 20 15:22:00 2019,45 min Bootcamp: Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Nov 20 14:19:00 2019,45 min Bootcamp: Chest & Back,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Nov 19 16:20:00 2019,60 min Bootcamp: Glutes & Legs,Chase Tucker,60.0,Body Focus (Bootcamp)
+Tue Nov 19 15:30:00 2019,45 min Classic Rock Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Mon Nov 18 16:19:00 2019,30 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Mon Nov 18 04:48:00 2019,45 min Run + Chest & Back,Jess Sims,45.0,Body Focus (Bootcamp)
+Sun Nov 17 06:19:00 2019,30 min Latin Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Sun Nov 17 05:22:00 2019,45 min Bootcamp: Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Nov 16 07:49:00 2019,60 min Hip Hop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Nov 15 05:47:00 2019,30 min Walk + Core,Andy Speer,30.0,Walking Bootcamp
+Thu Nov 14 15:17:00 2019,45 min Bootcamp: Glutes & Legs,Andy Speer,45.0,Body Focus (Bootcamp)
+Wed Nov 13 16:18:00 2019,45 min Hip Hop Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Wed Nov 13 15:17:00 2019,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Nov 13 14:18:00 2019,45 min Bootcamp: Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Tue Nov 12 14:19:00 2019,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Nov 12 03:48:00 2019,30 min Run + Bodyweight,Jess Sims,30.0,Bodyweight (Bootcamp)
+Mon Nov 11 04:48:00 2019,30 min Run + Glutes & Legs,Jess Sims,30.0,Body Focus (Bootcamp)
+Sun Nov 10 09:19:00 2019,45 min Run + Core,Becs Gentry,45.0,Body Focus (Bootcamp)
+Sat Nov  9 07:48:00 2019,60 min Bootcamp: Core,Jess Sims,60.0,Body Focus (Bootcamp)
+Sat Nov  9 06:18:00 2019,45 min Disco Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Thu Nov  7 15:17:00 2019,45 min Bootcamp: Full Body,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Nov  7 14:17:00 2019,45 min Run + Arms & Shoulders,Olivia Amato,45.0,Body Focus (Bootcamp)
+Thu Nov  7 03:48:00 2019,30 min Run + Chest & Back,Jess Sims,30.0,Body Focus (Bootcamp)
+Wed Nov  6 14:24:00 2019,45 min Latin Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Nov  5 14:19:00 2019,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Mon Nov  4 16:17:00 2019,60 min Bootcamp: Core,Selena Samuela,60.0,Body Focus (Bootcamp)
+Mon Nov  4 04:49:00 2019,45 min Bootcamp: Arms & Shoulders,Jess Sims,45.0,Body Focus (Bootcamp)
+Sat Nov  2 07:48:00 2019,60 min Bootcamp: Chest & Back,Jess Sims,60.0,Body Focus (Bootcamp)
+Thu Oct 31 15:17:00 2019,45 min Bootcamp: Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Thu Oct 31 13:01:00 2019,20 min Bootcamp: Core,Olivia Amato,20.0,Body Focus (Bootcamp)
+Thu Oct 31 11:41:00 2019,20 min Bootcamp: Glutes & Legs,Chase Tucker,20.0,Body Focus (Bootcamp)
+Wed Oct 30 12:49:00 2019,20 min Bootcamp: Glutes & Legs,Jess Sims,20.0,Body Focus (Bootcamp)
+Wed Oct 30 04:48:00 2019,45 min Halloween Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Tue Oct 29 14:19:00 2019,30 min Y2K Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Mon Oct 28 15:22:00 2019,45 min Bootcamp: Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Sun Oct 27 05:17:00 2019,45 min Run + Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Oct 26 07:48:00 2019,60 min Bootcamp: Full Body,Jess Sims,60.0,Body Focus (Bootcamp)
+Fri Oct 25 04:49:00 2019,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri Oct 25 02:48:00 2019,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Thu Oct 24 15:18:00 2019,45 min 80s Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Wed Oct 23 16:17:00 2019,45 min Bootcamp: Core,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Wed Oct 23 15:19:00 2019,45 min Run + Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Oct 21 16:18:00 2019,60 min Pop Bootcamp,Matty Maggiacomo,60.0,Theme (Bootcamp)
+Mon Oct 21 15:19:00 2019,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Oct 21 04:49:00 2019,45 min Bootcamp: Core,Jess Sims,45.0,Body Focus (Bootcamp)
+Sat Oct 19 07:48:00 2019,60 min Bootcamp: Bodyweight,Jess Sims,60.0,Bodyweight (Bootcamp)
+Fri Oct 18 02:49:00 2019,30 min Hip Hop Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Thu Oct 17 14:17:00 2019,45 min Bootcamp: Full Body,Olivia Amato,45.0,Body Focus (Bootcamp)
+Thu Oct 17 03:48:00 2019,30 min Run + Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Wed Oct 16 16:20:00 2019,45 min Bootcamp: Arms & Shoulders,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue Oct 15 12:48:00 2019,30 min Walk + Chest & Back,Chase Tucker,30.0,Walking Bootcamp
+Mon Oct 14 16:20:00 2019,60 min Bootcamp: Full Body,Selena Samuela,60.0,Body Focus (Bootcamp)
+Mon Oct 14 15:18:00 2019,45 min Bootcamp: Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Thu Oct 10 15:18:00 2019,45 min Run + Core,Olivia Amato,45.0,Body Focus (Bootcamp)
+Thu Oct 10 07:00:00 2019,30 min Walk + Chest & Back,Chase Tucker,30.0,Walking Bootcamp
+Wed Oct  9 16:19:00 2019,30 min Pop Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Wed Oct  9 14:19:00 2019,45 min Bootcamp: Bodyweight,Jess Sims,45.0,Bodyweight (Bootcamp)
+Wed Oct  9 05:11:00 2019,30 min Run + Bodyweight,Becs Gentry,30.0,Bodyweight (Bootcamp)
+Mon Oct  7 04:47:00 2019,45 min Run + Chest & Back,Jess Sims,45.0,Body Focus (Bootcamp)
+Sun Oct  6 05:17:00 2019,45 min EDM Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Fri Oct  4 02:49:00 2019,30 min Hip Hop Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Thu Oct  3 04:49:00 2019,30 min Run + Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Oct  3 03:47:00 2019,30 min Trap Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Wed Oct  2 10:16:00 2019,30 min Walk + Core,Jess Sims,30.0,Walking Bootcamp
+Tue Oct  1 14:22:00 2019,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Mon Sep 30 15:18:00 2019,45 min Hip Hop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Sat Sep 28 07:49:00 2019,60 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Thu Sep 26 15:19:00 2019,45 min EDM Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Thu Sep 26 10:18:00 2019,30 min Walk + Glutes & Legs,Chase Tucker,30.0,Walking Bootcamp
+Thu Sep 26 03:48:00 2019,30 min Bootcamp: Arms & Shoulders,Jess Sims,30.0,Body Focus (Bootcamp)
+Wed Sep 25 14:18:00 2019,45 min Run + Core,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Sep 23 16:20:00 2019,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Mon Sep 23 15:18:00 2019,45 min Caribbean Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Sep 23 03:48:00 2019,45 min Bootcamp: Full Body,Olivia Amato,45.0,Body Focus (Bootcamp)
+Sun Sep 22 10:35:00 2019,20 min Bootcamp: Bodyweight,Selena Samuela,20.0,Bodyweight (Bootcamp)
+Sun Sep 22 05:18:00 2019,45 min Run + Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Mon Sep 16 16:30:00 2019,60 min Bootcamp: Full Body,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Sun Sep 15 05:18:00 2019,45 min Run + Core,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Sep 14 07:48:00 2019,60 min R&B Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Fri Sep 13 02:49:00 2019,30 min 90s Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Thu Sep 12 16:17:00 2019,60 min Bootcamp: Full Body,Andy Speer,60.0,Body Focus (Bootcamp)
+Wed Sep 11 16:19:00 2019,30 min Bootcamp: Full Body,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Wed Sep 11 15:19:00 2019,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Sep 11 07:04:00 2019,30 min Walk + Glutes & Legs,Jess Sims,30.0,Walking Bootcamp
+Tue Sep 10 15:18:00 2019,45 min Bootcamp: Bodyweight,Selena Samuela,45.0,Bodyweight (Bootcamp)
+Tue Sep 10 14:16:00 2019,45 min Bootcamp: Chest & Back,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Sep  9 15:18:00 2019,45 min Run + Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Sun Sep  8 05:17:00 2019,45 min Bootcamp: Glutes & Legs,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Sep  7 07:48:00 2019,60 min Bootcamp: Glutes & Legs,Jess Sims,60.0,Body Focus (Bootcamp)
+Thu Sep  5 03:49:00 2019,45 min Run + Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Sep  4 15:18:00 2019,45 min R&B Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Wed Sep  4 04:47:00 2019,45 min Bootcamp: Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Tue Sep  3 15:18:00 2019,45 min Run + Core,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Sep  3 14:20:00 2019,45 min 90s Pop Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Tue Sep  3 12:46:00 2019,30 min Run + Stretch,Chase Tucker,30.0,Body Focus (Bootcamp)
+Tue Sep  3 04:10:00 2019,30 min Run + Arms & Shoulders,Jess Sims,30.0,Body Focus (Bootcamp)
+Mon Sep  2 06:17:00 2019,45 min Run + Bodyweight,Jess Sims,45.0,Bodyweight (Bootcamp)
+Mon Sep  2 05:18:00 2019,45 min Bootcamp: Chest & Back,Olivia Amato,45.0,Body Focus (Bootcamp)
+Sat Aug 31 07:49:00 2019,60 min Trap Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Aug 31 06:17:00 2019,20 min Bootcamp: Full Body,Chase Tucker,20.0,Body Focus (Bootcamp)
+Wed Aug 28 15:19:00 2019,30 min Bootcamp: Arms & Shoulders,Jess Sims,30.0,Body Focus (Bootcamp)
+Tue Aug 27 14:19:00 2019,30 min 90s Bootcamp,Rebecca Kennedy,30.0,Theme (Bootcamp)
+Sun Aug 25 06:19:00 2019,30 min Bootcamp: Arms & Shoulders,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Sun Aug 25 05:19:00 2019,45 min Run + Stretch,Selena Samuela,45.0,Body Focus (Bootcamp)
+Thu Aug 22 16:17:00 2019,60 min Bootcamp: Glutes & Legs,Chase Tucker,60.0,Body Focus (Bootcamp)
+Wed Aug 21 16:19:00 2019,30 min Bootcamp: Core,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Wed Aug 21 14:18:00 2019,45 min Run + Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Aug 20 15:18:00 2019,45 min Bootcamp: Full Body,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Aug 20 03:47:00 2019,45 min Run + Glutes & Legs,Jess Sims,45.0,Body Focus (Bootcamp)
+Mon Aug 19 16:18:00 2019,45 min Run + Arms & Shoulders,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Aug 19 15:17:00 2019,45 min HRZ Bootcamp: Glutes & Legs,Chase Tucker,45.0,Heart Rate Bootcamp
+Mon Aug 19 04:47:00 2019,20 min Pop Bootcamp,Jess Sims,20.0,Theme (Bootcamp)
+Mon Aug 19 03:48:00 2019,45 min Run + Glutes & Legs,Olivia Amato,45.0,Body Focus (Bootcamp)
+Thu Aug 15 03:10:00 2019,30 min Run + Core,Becs Gentry,30.0,Body Focus (Bootcamp)
+Tue Aug 13 15:19:00 2019,45 min Run + Core,Selena Samuela,45.0,Body Focus (Bootcamp)
+Mon Aug 12 16:19:00 2019,60 min Bootcamp: Core,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon Aug 12 15:19:00 2019,45 min Pop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Aug 12 04:48:00 2019,45 min Run + Bodyweight,Jess Sims,45.0,Bodyweight (Bootcamp)
+Sat Aug 10 07:47:00 2019,60 min Hip Hop Bootcamp,Jess Sims,60.0,Theme (Bootcamp)
+Sat Aug 10 06:17:00 2019,20 min Bootcamp: Chest & Back,Chase Tucker,20.0,Body Focus (Bootcamp)
+Tue Aug  6 13:16:00 2019,30 min Walk + Arms & Shoulders,Chase Tucker,30.0,Walking Bootcamp
+Thu Aug  1 03:48:00 2019,30 min Run + Core,Jess Sims,30.0,Body Focus (Bootcamp)
+Wed Jul 31 15:18:00 2019,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Jul 29 04:48:00 2019,45 min Run + Arms & Shoulders,Jess Sims,45.0,Body Focus (Bootcamp)
+Fri Jul 26 06:00:00 2019,30 min Walk + Core,Matty Maggiacomo,30.0,Walking Bootcamp
+Thu Jul 25 05:00:00 2019,30 min 80s Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Wed Jul 24 15:30:00 2019,45 min Run + Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Wed Jul 24 14:18:00 2019,45 min Run + Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue Jul 23 15:18:00 2019,45 min Run + Core,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Jul 23 13:00:00 2019,30 min Walk + Core,Chase Tucker,30.0,Walking Bootcamp
+Mon Jul 22 04:47:00 2019,45 min Trap Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Mon Jul 22 02:49:00 2019,30 min Run + Arms & Shoulders,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri Jul 19 04:53:00 2019,30 min Run + Glutes & Legs,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Jul 18 16:19:00 2019,60 min Bootcamp: Glutes & Legs,Andy Speer,60.0,Body Focus (Bootcamp)
+Wed Jul 17 14:14:00 2019,45 min Run + Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Tue Jul 16 15:22:00 2019,45 min Bootcamp: Bodyweight,Selena Samuela,45.0,Bodyweight (Bootcamp)
+Mon Jul 15 15:18:00 2019,45 min Hip Hop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Mon Jul 15 14:19:00 2019,20 min Bootcamp: Bodyweight,Matty Maggiacomo,20.0,Bodyweight (Bootcamp)
+Thu Jul 11 14:19:00 2019,45 min Run + Glutes & Legs,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Jul  8 16:20:00 2019,60 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon Jul  8 03:15:00 2019,30 min Rock Bootcamp,Selena Samuela,30.0,Theme (Bootcamp)
+Sat Jul  6 07:48:00 2019,60 min Bootcamp: Core,Jess Sims,60.0,Body Focus (Bootcamp)
+Sat Jul  6 05:18:00 2019,45 min Run + Arms & Shoulders,Becs Gentry,45.0,Body Focus (Bootcamp)
+Tue Jul  2 05:50:00 2019,20 min Bootcamp: Arms & Shoulders,Andy Speer,20.0,Body Focus (Bootcamp)
+Mon Jul  1 16:18:00 2019,60 min Bootcamp: Full Body,Andy Speer,60.0,Body Focus (Bootcamp)
+Mon Jul  1 04:48:00 2019,45 min Run + Full Body,Jess Sims,45.0,Body Focus (Bootcamp)
+Sat Jun 29 06:19:00 2019,30 min HRZ Bootcamp: Bodyweight,Chase Tucker,30.0,Heart Rate Bootcamp
+Fri Jun 28 05:50:00 2019,30 min Walk + Core,Andy Speer,30.0,Walking Bootcamp
+Thu Jun 27 04:49:00 2019,30 min Run + Arms & Shoulders,Selena Samuela,30.0,Body Focus (Bootcamp)
+Wed Jun 26 14:19:00 2019,45 min Run + Glutes & Legs,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Jun 24 07:21:00 2019,30 min Run + Bodyweight,Becs Gentry,30.0,Bodyweight (Bootcamp)
+Mon Jun 24 04:47:00 2019,20 min Bootcamp: Bodyweight,Jess Sims,20.0,Bodyweight (Bootcamp)
+Thu Jun 20 14:19:00 2019,45 min Run + Arms & Shoulders,Olivia Amato,45.0,Body Focus (Bootcamp)
+Wed Jun 19 15:19:00 2019,45 min Run + Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Tue Jun 18 03:48:00 2019,30 min Run + Glutes & Legs,Jess Sims,30.0,Body Focus (Bootcamp)
+Mon Jun 17 16:19:00 2019,60 min Bootcamp: Glutes & Legs,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon Jun 17 05:50:00 2019,30 min Run + Stretch,Becs Gentry,30.0,Body Focus (Bootcamp)
+Fri Jun 14 02:50:00 2019,45 min Run + Arms & Shoulders,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Thu Jun 13 15:18:00 2019,45 min Run + Glutes & Legs,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Thu Jun 13 03:50:00 2019,30 min 90s Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Wed Jun 12 03:49:00 2019,45 min HRZ Bootcamp: Core,Jess Sims,45.0,Heart Rate Bootcamp
+Tue Jun 11 03:50:00 2019,20 min Bootcamp: Core,Jess Sims,20.0,Body Focus (Bootcamp)
+Mon Jun 10 16:20:00 2019,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Sun Jun  9 05:17:00 2019,45 min Pride Bootcamp,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Jun  8 06:19:00 2019,30 min Run + Core,Chase Tucker,30.0,Body Focus (Bootcamp)
+Sat Jun  8 05:30:00 2019,45 min Run + Full Body,Becs Gentry,45.0,Body Focus (Bootcamp)
+Thu Jun  6 16:21:00 2019,60 min HRZ Bootcamp: Glutes & Legs,Andy Speer,60.0,Heart Rate Bootcamp
+Thu Jun  6 15:18:00 2019,45 min Bootcamp: Glutes & Legs,Selena Samuela,45.0,Body Focus (Bootcamp)
+Thu Jun  6 04:00:00 2019,30 min Run + Arms & Shoulders,Jess Sims,30.0,Body Focus (Bootcamp)
+Wed Jun  5 14:30:00 2019,45 min Bootcamp: Bodyweight,Chase Tucker,45.0,Bodyweight (Bootcamp)
+Sun Jun  2 07:48:00 2019,60 min Bootcamp: Core,Chase Tucker,60.0,Body Focus (Bootcamp)
+Thu May 30 14:19:00 2019,45 min 90s Bootcamp,Jess Sims,45.0,Theme (Bootcamp)
+Wed May 29 14:18:00 2019,45 min Run + Glutes & Legs,Chase Tucker,45.0,Body Focus (Bootcamp)
+Tue May 28 14:18:00 2019,45 min Run + Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Sun May 26 07:48:00 2019,60 min HRZ Bootcamp: Core,Selena Samuela,60.0,Heart Rate Bootcamp
+Sat May 25 07:48:00 2019,60 min Bootcamp: Arms & Shoulders,Jess Sims,60.0,Body Focus (Bootcamp)
+Fri May 24 08:30:00 2019,20 min Bootcamp: Full Body,Olivia Amato,20.0,Body Focus (Bootcamp)
+Tue May 21 15:19:00 2019,45 min Run + Full Body,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue May 21 14:19:00 2019,45 min Run + Core,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Tue May 21 05:47:00 2019,45 min Run + Arms & Shoulders,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon May 20 16:19:00 2019,60 min Bootcamp: Core,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Sat May 18 07:47:00 2019,60 min Bootcamp: Full Body,Jess Sims,60.0,Body Focus (Bootcamp)
+Thu May 16 16:17:00 2019,60 min Bootcamp: Full Body,Andy Speer,60.0,Body Focus (Bootcamp)
+Wed May 15 15:18:00 2019,45 min HRZ Bootcamp: Arms & Shoulders,Matty Maggiacomo,45.0,Heart Rate Bootcamp
+Tue May 14 15:20:00 2019,45 min Run + Glutes & Legs,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue May 14 04:50:00 2019,45 min Run + Chest & Back,Olivia Amato,45.0,Body Focus (Bootcamp)
+Mon May 13 16:19:00 2019,60 min Bootcamp: Full Body,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon May 13 15:20:00 2019,30 min Run + Bodyweight,Rebecca Kennedy,30.0,Bodyweight (Bootcamp)
+Mon May 13 04:47:00 2019,45 min Run + Core,Jess Sims,45.0,Body Focus (Bootcamp)
+Wed May  8 14:30:00 2019,45 min Pop Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue May  7 15:19:00 2019,45 min 80s Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Mon May  6 15:20:00 2019,45 min Run + Core,Chase Tucker,45.0,Body Focus (Bootcamp)
+Sun May  5 11:19:00 2019,30 min 80s Bootcamp,Matty Maggiacomo,30.0,Theme (Bootcamp)
+Sat May  4 12:49:00 2019,30 min Y2K Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Sat May  4 10:48:00 2019,30 min Bootcamp: Arms & Shoulders,Andy Speer,30.0,Body Focus (Bootcamp)
+Sat May  4 08:45:00 2019,30 min Run + Core,Olivia Amato,30.0,Body Focus (Bootcamp)
+Sat May  4 05:48:00 2019,30 min Run + Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri May  3 13:51:00 2019,30 min Run + Full Body,Jess Sims,30.0,Body Focus (Bootcamp)
+Fri May  3 11:47:00 2019,30 min Bootcamp: Core,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Fri May  3 06:18:00 2019,30 min Hip Hop Bootcamp,Chase Tucker,30.0,Theme (Bootcamp)
+Thu May  2 14:18:00 2019,45 min HRZ Bootcamp: Core,Jess Sims,45.0,Heart Rate Bootcamp
+Sat Apr 27 09:20:00 2019,30 min Run + Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri Apr 26 03:49:00 2019,45 min Classic Rock Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Thu Apr 25 16:19:00 2019,60 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Wed Apr 24 03:49:00 2019,30 min Trap Bootcamp,Jess Sims,30.0,Theme (Bootcamp)
+Tue Apr 23 05:21:00 2019,20 min 90s Bootcamp,Olivia Amato,20.0,Theme (Bootcamp)
+Mon Apr 22 16:19:00 2019,60 min HRZ Bootcamp: Glutes & Legs,Matty Maggiacomo,60.0,Heart Rate Bootcamp
+Mon Apr 22 15:20:00 2019,45 min Run + Chest & Back ,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Apr 22 10:21:00 2019,20 min Bootcamp: Full Body,Andy Speer,20.0,Body Focus (Bootcamp)
+Mon Apr 22 03:47:00 2019,30 min Run + Arms & Shoulders,Olivia Amato,30.0,Body Focus (Bootcamp)
+Sun Apr 21 05:18:00 2019,45 min HRZ Bootcamp: Arms & Shoulders,Andy Speer,45.0,Heart Rate Bootcamp
+Fri Apr 19 03:48:00 2019,30 min Run + Core Strength,Selena Samuela,30.0,Body Focus (Bootcamp)
+Wed Apr 17 15:19:00 2019,30 min Run + Bodyweight ,Matty Maggiacomo,30.0,Bodyweight (Bootcamp)
+Tue Apr 16 16:18:00 2019,45 min 90s Bootcamp,Chase Tucker,45.0,Theme (Bootcamp)
+Tue Apr 16 04:48:00 2019,30 min Run + Chest & Back ,Olivia Amato,30.0,Body Focus (Bootcamp)
+Mon Apr 15 16:18:00 2019,60 min HRZ Bootcamp: Full Body,Matty Maggiacomo,60.0,Heart Rate Bootcamp
+Sun Apr 14 05:19:00 2019,45 min Run + Chest & Back,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Apr 13 07:49:00 2019,60 min Bootcamp: Core,Chase Tucker,60.0,Body Focus (Bootcamp)
+Thu Apr 11 14:18:00 2019,30 min Run + Arms & Shoulders,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Apr 11 03:49:00 2019,30 min EDM Bootcamp,Olivia Amato,30.0,Theme (Bootcamp)
+Tue Apr  9 14:17:00 2019,30 min Run + Glutes & Legs,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Tue Apr  9 04:48:00 2019,30 min Run + Chest & Back ,Olivia Amato,30.0,Body Focus (Bootcamp)
+Mon Apr  8 14:19:00 2019,45 min Run + Full Body,Robin Arzon,45.0,Body Focus (Bootcamp)
+Mon Apr  8 02:48:00 2019,45 min Run + Core Strength,Becs Gentry,45.0,Body Focus (Bootcamp)
+Sun Apr  7 05:18:00 2019,45 min Run + Glutes & Legs,Andy Speer,45.0,Body Focus (Bootcamp)
+Sat Apr  6 10:22:00 2019,20 min Bootcamp: Full Body,Chase Tucker,20.0,Body Focus (Bootcamp)
+Wed Apr  3 16:19:00 2019,60 min Bootcamp: Full Body,Rebecca Kennedy,60.0,Body Focus (Bootcamp)
+Wed Apr  3 15:19:00 2019,30 min Run + Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Wed Apr  3 12:48:00 2019,20 min Bootcamp: Glutes & Legs,Jess Sims,20.0,Body Focus (Bootcamp)
+Wed Apr  3 04:48:00 2019,45 min 80s Bootcamp,Andy Speer,45.0,Theme (Bootcamp)
+Tue Apr  2 15:18:00 2019,45 min Run + Glutes & Legs,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Apr  2 04:48:00 2019,30 min Run + Arms & Shoulders,Olivia Amato,30.0,Body Focus (Bootcamp)
+Mon Apr  1 15:21:00 2019,45 min Run + Glutes & Legs,Chase Tucker,45.0,Body Focus (Bootcamp)
+Mon Apr  1 08:03:00 2019,20 min Bootcamp: Bodyweight,Rebecca Kennedy,20.0,Bodyweight (Bootcamp)
+Sat Mar 30 05:17:00 2019,45 min Bootcamp: Chest & Back,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Fri Mar 29 07:22:00 2019,30 min Walk + Full Body,Olivia Amato,30.0,Walking Bootcamp
+Wed Mar 27 10:19:00 2019,30 min Bootcamp: Full Body,Selena Samuela,30.0,Body Focus (Bootcamp)
+Tue Mar 26 15:19:00 2019,45 min Run + Full Body,Selena Samuela,45.0,Body Focus (Bootcamp)
+Tue Mar 26 14:20:00 2019,45 min Hip Hop Bootcamp,Rebecca Kennedy,45.0,Theme (Bootcamp)
+Mon Mar 25 16:19:00 2019,60 min Bootcamp: Core,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Sat Mar 23 09:22:00 2019,30 min Walk + Core,Olivia Amato,30.0,Walking Bootcamp
+Thu Mar 21 16:18:00 2019,60 min Bootcamp: Chest & Back,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Wed Mar 20 15:18:00 2019,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Mar 18 16:19:00 2019,60 min HRZ Bootcamp: Full Body,Matty Maggiacomo,60.0,Heart Rate Bootcamp
+Sun Mar 17 05:19:00 2019,45 min Bootcamp: Bodyweight,Selena Samuela,45.0,Bodyweight (Bootcamp)
+Fri Mar 15 02:49:00 2019,20 min 90s Bootcamp,Rebecca Kennedy,20.0,Theme (Bootcamp)
+Mon Feb 25 02:49:00 2019,30 min HRZ Bootcamp: Bodyweight,Selena Samuela,30.0,Heart Rate Bootcamp
+Tue Feb 12 16:18:00 2019,60 min Bootcamp: Arms & Shoulders,Olivia Amato,60.0,Body Focus (Bootcamp)
+Sat Feb  9 06:19:00 2019,20 min Bootcamp: Glutes & Legs,Robin Arzon,20.0,Body Focus (Bootcamp)
+Fri Feb  8 04:49:00 2019,30 min Bootcamp: Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Feb  7 02:50:00 2019,30 min Run + Arms & Shoulders,Chase Tucker,29.0,Body Focus (Bootcamp)
+Tue Jan 29 07:07:00 2019,30 min Run + Full Body,Andy Speer,30.0,Body Focus (Bootcamp)
+Tue Jan 29 06:08:00 2019,30 min Walk + Core,Chase Tucker,30.0,Walking Bootcamp
+Wed Jan 16 15:19:00 2019,45 min Bootcamp: Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Tue Jan 15 02:49:00 2019,20 min Rock Bootcamp,Andy Speer,20.0,Theme (Bootcamp)
+Sat Jan 12 09:20:00 2019,20 min Disco Bootcamp,Matty Maggiacomo,20.0,Theme (Bootcamp)
+Fri Jan 11 06:24:00 2019,20 min Bootcamp: Glutes & Legs,Andy Speer,20.0,Body Focus (Bootcamp)
+Sat Jan  5 09:35:00 2019,30 min Walk + Core,Matty Maggiacomo,30.0,Walking Bootcamp
+Thu Jan  3 03:50:00 2019,45 min Bootcamp: Bodyweight,Olivia Amato,45.0,Bodyweight (Bootcamp)
+Wed Jan  2 04:50:00 2019,30 min Run + Glutes & Legs,Andy Speer,30.0,Body Focus (Bootcamp)
+Wed Dec 26 07:49:00 2018,60 min Bootcamp: Chest & Back,Selena Samuela,60.0,Body Focus (Bootcamp)
+Tue Dec 18 13:52:00 2018,30 min Walk + Arms & Shoulders,Chase Tucker,30.0,Walking Bootcamp
+Mon Dec 17 16:19:00 2018,60 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,60.0,Body Focus (Bootcamp)
+Mon Dec 17 15:19:00 2018,45 min Bootcamp: Full Body,Chase Tucker,45.0,Body Focus (Bootcamp)
+Sun Dec 16 07:50:00 2018,60 min HRZ Bootcamp: Chest & Back,Olivia Amato,60.0,Heart Rate Bootcamp
+Wed Dec 12 02:50:00 2018,20 min Bootcamp: Full Body,Matty Maggiacomo,20.0,Body Focus (Bootcamp)
+Mon Dec 10 16:20:00 2018,60 min HRZ Bootcamp: Core,Matty Maggiacomo,60.0,Heart Rate Bootcamp
+Mon Dec 10 06:40:00 2018,30 min Walk + Chest & Back,Andy Speer,30.0,Walking Bootcamp
+Wed Dec  5 16:19:00 2018,60 min HRZ Bootcamp: Full Body,Selena Samuela,60.0,Heart Rate Bootcamp
+Fri Nov 30 06:07:00 2018,20 min Bootcamp: Glutes & Legs,Olivia Amato,20.0,Body Focus (Bootcamp)
+Wed Nov 28 02:48:00 2018,45 min HRZ Bootcamp: Glutes & Legs,Matty Maggiacomo,45.0,Heart Rate Bootcamp
+Mon Nov 19 16:20:00 2018,60 min HRZ Bootcamp: Core,Matty Maggiacomo,60.0,Heart Rate Bootcamp
+Mon Nov 19 10:20:00 2018,30 min Walk + Core,Olivia Amato,30.0,Walking Bootcamp
+Mon Nov 19 02:49:00 2018,45 min 90s Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Fri Nov 16 04:49:00 2018,30 min Run + Glutes & Legs,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Fri Nov 16 03:50:00 2018,30 min HRZ Bootcamp: Bodyweight,Selena Samuela,30.0,Heart Rate Bootcamp
+Tue Nov 13 16:20:00 2018,60 min Bootcamp: Chest & Back,Selena Samuela,60.0,Body Focus (Bootcamp)
+Tue Nov 13 04:49:00 2018,30 min Bootcamp: Bodyweight,Olivia Amato,30.0,Bodyweight (Bootcamp)
+Wed Nov  7 02:49:00 2018,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Tue Nov  6 09:26:00 2018,20 min Bootcamp: Arms & Shoulders,Andy Speer,20.0,Body Focus (Bootcamp)
+Mon Nov  5 10:49:00 2018,20 min Bootcamp: Arms & Shoulders,Olivia Amato,20.0,Body Focus (Bootcamp)
+Sat Nov  3 10:19:00 2018,20 min Bootcamp: Glutes & Legs,Olivia Amato,20.0,Body Focus (Bootcamp)
+Fri Nov  2 08:11:00 2018,30 min Walk + Glutes & Legs,Matty Maggiacomo,30.0,Walking Bootcamp
+Fri Nov  2 06:10:00 2018,30 min Walk + Core,Rebecca Kennedy,30.0,Walking Bootcamp
+Fri Nov  2 02:49:00 2018,30 min Run + Core,Becs Gentry,30.0,Body Focus (Bootcamp)
+Tue Oct 23 04:49:00 2018,30 min HRZ Bootcamp: Chest & Back,Selena Samuela,30.0,Heart Rate Bootcamp
+Sun Oct 21 09:20:00 2018,20 min Walk + Glutes & Legs,Rebecca Kennedy,20.0,Walking Bootcamp
+Fri Oct 19 07:19:00 2018,30 min Run + Core,Andy Speer,30.0,Body Focus (Bootcamp)
+Mon Oct 15 06:33:00 2018,30 min Walk + Glutes & Legs,Robin Arzon,30.0,Walking Bootcamp
+Mon Oct 15 03:49:00 2018,45 min Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Fri Oct 12 06:04:00 2018,20 min Run + Arms & Shoulders,Becs Gentry,20.0,Body Focus (Bootcamp)
+Fri Oct 12 04:49:00 2018,30 min Bootcamp: Glutes & Legs,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Thu Oct 11 11:04:00 2018,20 min Hip Hop Bootcamp,Robin Arzon,20.0,Body Focus (Bootcamp)
+Thu Oct 11 06:35:00 2018,20 min Rock Bootcamp,Selena Samuela,20.0,Body Focus (Bootcamp)
+Tue Oct  9 04:50:00 2018,30 min HRZ Bootcamp: Glutes & Legs,Selena Samuela,30.0,Heart Rate Bootcamp
+Wed Sep 19 16:20:00 2018,30 min HRZ Bootcamp: Core,Chase Tucker,30.0,Heart Rate Bootcamp
+Mon Sep 17 16:20:00 2018,30 min Rock Bootcamp,Andy Speer,30.0,Theme (Bootcamp)
+Mon Sep 17 09:35:00 2018,20 min Hip Hop Bootcamp,Chase Tucker,20.0,Body Focus (Bootcamp)
+Fri Sep 14 11:45:00 2018,20 min Rock Bootcamp,Andy Speer,20.0,Body Focus (Bootcamp)
+Mon Sep 10 13:49:00 2018,30 min Walk + Arms & Shoulders,Becs Gentry,30.0,Walking Bootcamp
+Mon Sep 10 12:40:00 2018,30 min Run + Core,Andy Speer,30.0,Body Focus (Bootcamp)
+Wed Aug 22 13:20:00 2018,20 min Bootcamp: Full Body,Selena Samuela,20.0,Body Focus (Bootcamp)
+Mon Aug 20 15:20:00 2018,45 min 70s Rock Bootcamp,Selena Samuela,45.0,Theme (Bootcamp)
+Mon Aug 20 03:50:00 2018,45 min Bootcamp: Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Sat Aug 18 06:19:00 2018,30 min Bootcamp: Full Body,Selena Samuela,30.0,Body Focus (Bootcamp)
+Fri Aug 17 07:19:00 2018,30 min Walk + Arms & Shoulders,Andy Speer,30.0,Walking Bootcamp
+Thu Aug 16 03:50:00 2018,45 min Bootcamp: Full Body,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Mon Aug 13 03:50:00 2018,45 min Bootcamp: Core,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Tue Aug  7 06:20:00 2018,30 min Walk + Core,Robin Arzon,30.0,Walking Bootcamp
+Tue Jul 31 06:20:00 2018,30 min Run + Chest & Back,Robin Arzon,30.0,Body Focus (Bootcamp)
+Tue Jul 17 04:50:00 2018,30 min Run + Glutes & Legs,Selena Samuela,30.0,Body Focus (Bootcamp)
+Thu Jul 12 04:50:00 2018,30 min Run + Core,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Wed Jul 11 16:20:00 2018,30 min Rock Bootcamp,Andy Speer,30.0,Theme (Bootcamp)
+Wed Jul  4 05:19:00 2018,45 min Bootcamp: Arms & Shoulders,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Thu Jun 21 15:19:00 2018,45 min Pride Bootcamp: Full Body,Matty Maggiacomo,45.0,Body Focus (Bootcamp)
+Mon Jun 18 06:36:00 2018,30 min Bootcamp: Arms & Shoulders,Robin Arzon,30.0,Body Focus (Bootcamp)
+Fri Jun 15 09:19:00 2018,30 min Bootcamp: Full Body,Rebecca Kennedy,30.0,Body Focus (Bootcamp)
+Mon Jun 11 15:20:00 2018,45 min 80s Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Mon Jun 11 04:50:00 2018,30 min Run + Chest & Back,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Wed Jun  6 15:19:00 2018,45 min HRZ Bootcamp: Full Body,Rebecca Kennedy,45.0,Heart Rate Bootcamp
+Fri Jun  1 02:49:00 2018,45 min Bootcamp: Chest & Back,Rebecca Kennedy,45.0,Body Focus (Bootcamp)
+Fri May 25 03:50:00 2018,45 min Rock Bootcamp,Olivia Amato,45.0,Theme (Bootcamp)
+Fri May 18 02:50:00 2018,45 min Bootcamp: Chest & Back,Rebecca Kennedy,45.016666666666666,Body Focus (Bootcamp)
+Mon May  7 15:19:00 2018,45 min 80s Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Mon May  7 04:52:00 2018,30 min Run + Chest & Back,Matty Maggiacomo,30.0,Body Focus (Bootcamp)
+Sun May  6 10:20:00 2018,45 min 80s Bootcamp,Matty Maggiacomo,45.0,Theme (Bootcamp)
+Fri Aug 24 06:30:00 2018,20 min Bootcamp: Full Body,Rebecca Kennedy,20.0,Body Focus (Bootcamp)
+Mon Oct 15 13:49:00 2018,30 min Bootcamp: Arms & Shoulders,Andy Speer,30.0,Body Focus (Bootcamp)
+Tue Jun 19 15:30:00 2018,45 min Bootcamp: Bodyweight,Matty Maggiacomo,45.0,Bodyweight (Bootcamp)
